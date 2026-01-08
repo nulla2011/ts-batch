@@ -1,0 +1,1 @@
+笑点解析：typescript 和 mpegts 扩展名都是 ts，怕混淆就不用 ts 写了
